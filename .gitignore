@@ -1,0 +1,21 @@
+# Python bytecode/cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment files (keep only templates)
+.env
+.env.*
+!.env.example
+
+# YAML files (keep example templates)
+*.yaml
+*.yml
+!*.example.yaml
+!*.example.yml
