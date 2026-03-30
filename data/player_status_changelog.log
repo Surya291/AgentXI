@@ -1,0 +1,360 @@
+[2026-03-28 13:25:35 UTC]  UPDATE  Virat Kohli                     form: None -> excellent
+[2026-03-28 13:34:23 UTC]  UPDATE  Virat Kohli                     form: None -> excellent
+[2026-03-28 13:38:33 UTC]  UPDATE  Manish Pandey                   form: None -> bad
+[2026-03-28 13:38:33 UTC]  UPDATE  Josh Hazlewood                  availability: available -> temporarily_injured
+[2026-03-28 13:38:33 UTC]  UPDATE  Nuwan Thushara                  availability: available -> temporarily_injured
+[2026-03-28 13:38:33 UTC]  UPDATE  Matheesha Pathirana             availability: available -> temporarily_injured
+[2026-03-28 21:14:42 UTC]  UPDATE  Manish Pandey                   form: None -> bad
+[2026-03-28 21:14:42 UTC]  UPDATE  Josh Hazlewood                  (no change)
+[2026-03-28 21:14:42 UTC]  UPDATE  Nuwan Thushara                  (no change)
+[2026-03-28 21:14:42 UTC]  UPDATE  Matheesha Pathirana             (no change)
+[2026-03-28 21:14:44 UTC]  UPDATE  Manish Pandey                   (no change)
+[2026-03-28 21:14:44 UTC]  UPDATE  Josh Hazlewood                  (no change)
+[2026-03-28 21:14:44 UTC]  UPDATE  Nuwan Thushara                  (no change)
+[2026-03-28 21:14:44 UTC]  UPDATE  Matheesha Pathirana             (no change)
+[2026-03-28 21:15:58 UTC]  UPDATE  Josh Hazlewood                  availability: temporarily_injured -> available
+[2026-03-28 21:18:13 UTC]  UPDATE  Josh Hazlewood                  (no change)
+[2026-03-28 21:20:13 UTC]  UPDATE  Josh Hazlewood                  (no change)
+[2026-03-28 21:21:54 UTC]  UPDATE  Josh Hazlewood                  availability: temporarily_injured -> available
+[2026-03-28 21:22:58 UTC]  UPDATE  Josh Hazlewood                  form: None -> excellent
+[2026-03-28 21:23:53 UTC]  UPDATE  Josh Hazlewood                  availability: available -> temporarily_injured
+[2026-03-28 22:12:57 UTC]  UPDATE  Bhuvneshwar Kumar               form: None -> excellent
+[2026-03-29 11:05:12 UTC]  UPDATE  Virat Kohli                     (no change)
+[2026-03-29 11:36:01 UTC]  UPDATE  Virat Kohli                     form: None -> excellent
+[2026-03-29 12:09:14 UTC]  UPDATE  Nonexistent TestPlayerXYZ       form: None -> good
+[2026-03-29 13:37:45 UTC]  UPDATE  Yash Dayal                      availability: available -> ruled_out
+[2026-03-29 13:37:45 UTC]  UPDATE  Josh Hazlewood                  (no change)
+[2026-03-29 13:37:45 UTC]  UPDATE  Phil Salt                       form: None -> good
+[2026-03-29 13:37:45 UTC]  UPDATE  Virat Kohli                     form: excellent -> good
+[2026-03-29 13:37:45 UTC]  UPDATE  Devdutt Padikkal                form: None -> good
+[2026-03-29 13:37:45 UTC]  UPDATE  Rajat Patidar                   form: None -> good
+[2026-03-29 13:37:45 UTC]  UPDATE  Tim David                       form: None -> good
+[2026-03-29 13:37:45 UTC]  UPDATE  Jitesh Sharma                   form: None -> good
+[2026-03-29 13:37:45 UTC]  UPDATE  Romario Shepherd                form: None -> good
+[2026-03-29 13:37:45 UTC]  UPDATE  Krunal Pandya                   form: None -> good
+[2026-03-29 13:37:45 UTC]  UPDATE  Bhuvneshwar Kumar               form: excellent -> good
+[2026-03-29 13:37:45 UTC]  UPDATE  Suyash Sharma                   form: None -> good
+[2026-03-29 13:37:45 UTC]  UPDATE  Rasikh Salam                    form: None -> good
+[2026-03-29 13:37:45 UTC]  UPDATE  Mangesh Yadav                   form: None -> good
+[2026-03-29 13:50:59 UTC]  UPDATE  Pat Cummins                     availability: available -> temporarily_injured
+[2026-03-29 13:50:59 UTC]  UPDATE  Jack Edwards                    availability: available -> ruled_out
+[2026-03-29 13:50:59 UTC]  UPDATE  Travis Head                     form: None -> good
+[2026-03-29 13:50:59 UTC]  UPDATE  Abhishek Sharma                 form: None -> good
+[2026-03-29 13:50:59 UTC]  UPDATE  Ishan Kishan                    form: None -> good
+[2026-03-29 13:50:59 UTC]  UPDATE  Heinrich Klaasen                form: None -> good
+[2026-03-29 13:50:59 UTC]  UPDATE  Nitish Kumar Reddy              form: None -> good
+[2026-03-29 13:50:59 UTC]  UPDATE  Liam Livingstone                form: None -> good
+[2026-03-29 13:50:59 UTC]  UPDATE  Aniket Verma                    form: None -> good
+[2026-03-29 13:50:59 UTC]  UPDATE  Harsh Dubey                     form: None -> good
+[2026-03-29 13:50:59 UTC]  UPDATE  Harshal Patel                   form: None -> good
+[2026-03-29 13:50:59 UTC]  UPDATE  Jaydev Unadkat                  form: None -> good
+[2026-03-29 13:50:59 UTC]  UPDATE  Zeeshan Ansari                  form: None -> good
+[2026-03-29 13:50:59 UTC]  UPDATE  Shivang Kumar                   form: None -> good
+[2026-03-29 13:50:59 UTC]  UPDATE  Eshan Malinga                   form: None -> good
+[2026-03-29 13:50:59 UTC]  UPDATE  Brydon Carse                    form: None -> good
+[2026-03-29 13:50:59 UTC]  UPDATE  Matheesha Pathirana             (no change)
+[2026-03-29 13:50:59 UTC]  UPDATE  Harshit Rana                    availability: available -> ruled_out
+[2026-03-29 13:50:59 UTC]  UPDATE  Akash Deep                      availability: available -> ruled_out
+[2026-03-29 13:50:59 UTC]  UPDATE  Finn Allen                      form: None -> good
+[2026-03-29 13:50:59 UTC]  UPDATE  Ajinkya Rahane                  form: None -> good
+[2026-03-29 13:50:59 UTC]  UPDATE  Angkrish Raghuvanshi            form: None -> good
+[2026-03-29 13:50:59 UTC]  UPDATE  Cameron Green                   form: None -> good
+[2026-03-29 13:50:59 UTC]  UPDATE  Rinku Singh                     form: None -> good
+[2026-03-29 13:50:59 UTC]  UPDATE  Ramandeep Singh                 form: None -> good
+[2026-03-29 13:50:59 UTC]  UPDATE  Sunil Narine                    form: None -> good
+[2026-03-29 13:50:59 UTC]  UPDATE  Vaibhav Arora                   form: None -> good
+[2026-03-29 13:50:59 UTC]  UPDATE  Umran Malik                     form: None -> good
+[2026-03-29 13:50:59 UTC]  UPDATE  Kartik Tyagi                    form: None -> good
+[2026-03-29 13:50:59 UTC]  UPDATE  Anukul Roy                      form: None -> good
+[2026-03-29 13:50:59 UTC]  UPDATE  Varun Chakaravarthy             form: None -> good
+[2026-03-29 13:50:59 UTC]  UPDATE  Tim Seifert                     form: None -> good
+[2026-03-29 14:31:33 UTC]  UPDATE  Yash Dayal                      (no change)
+[2026-03-29 14:31:33 UTC]  UPDATE  Josh Hazlewood                  (no change)
+[2026-03-29 14:31:33 UTC]  UPDATE  Jacob Bethell                   availability: available -> benched
+[2026-03-29 14:31:33 UTC]  UPDATE  Venkatesh Iyer                  availability: available -> benched
+[2026-03-29 14:31:33 UTC]  UPDATE  Phil Salt                       (no change)
+[2026-03-29 14:31:33 UTC]  UPDATE  Virat Kohli                     (no change)
+[2026-03-29 14:31:33 UTC]  UPDATE  Devdutt Padikkal                (no change)
+[2026-03-29 14:31:33 UTC]  UPDATE  Rajat Patidar                   (no change)
+[2026-03-29 14:31:33 UTC]  UPDATE  Tim David                       (no change)
+[2026-03-29 14:31:33 UTC]  UPDATE  Jitesh Sharma                   (no change)
+[2026-03-29 14:31:33 UTC]  UPDATE  Romario Shepherd                (no change)
+[2026-03-29 14:31:33 UTC]  UPDATE  Krunal Pandya                   (no change)
+[2026-03-29 14:31:33 UTC]  UPDATE  Bhuvneshwar Kumar               (no change)
+[2026-03-29 14:31:33 UTC]  UPDATE  Suyash Sharma                   (no change)
+[2026-03-29 14:31:33 UTC]  UPDATE  Rasikh Dar                      (no change)
+[2026-03-29 14:34:40 UTC]  UPDATE  Quinton de Kock                 availability: available -> benched
+[2026-03-29 14:34:40 UTC]  UPDATE  Ryan Rickelton                  form: None -> good
+[2026-03-29 14:34:40 UTC]  UPDATE  Deepak Chahar                   availability: available -> benched
+[2026-03-29 14:34:40 UTC]  UPDATE  Allah Ghazanfar                 form: None -> good
+[2026-03-29 14:34:40 UTC]  UPDATE  AM Ghazanfar                    form: None -> good
+[2026-03-29 14:34:40 UTC]  UPDATE  Rohit Sharma                    form: None -> good
+[2026-03-29 14:34:40 UTC]  UPDATE  Tilak Varma                     form: None -> good
+[2026-03-29 14:34:40 UTC]  UPDATE  Suryakumar Yadav                form: None -> good
+[2026-03-29 14:34:40 UTC]  UPDATE  Sherfane Rutherford             form: None -> good
+[2026-03-29 14:34:40 UTC]  UPDATE  Hardik Pandya                   form: None -> good
+[2026-03-29 14:34:40 UTC]  UPDATE  Mitchell Santner                form: None -> good
+[2026-03-29 14:34:40 UTC]  UPDATE  Jasprit Bumrah                  form: None -> good
+[2026-03-29 14:34:40 UTC]  UPDATE  Trent Boult                     form: None -> good
+[2026-03-29 14:34:40 UTC]  UPDATE  Mayank Markande                 form: None -> good
+[2026-03-29 14:34:40 UTC]  UPDATE  Shardul Thakur                  form: None -> good
+[2026-03-29 14:34:40 UTC]  UPDATE  Naman Dhir                      form: None -> good
+[2026-03-29 14:34:40 UTC]  UPDATE  Will Jacks                      availability: available -> benched
+[2026-03-29 14:37:05 UTC]  UPDATE  Nathan Ellis                    availability: available -> ruled_out
+[2026-03-29 14:37:05 UTC]  UPDATE  MS Dhoni                        availability: available -> temporarily_injured
+[2026-03-29 14:37:05 UTC]  UPDATE  Dewald Brevis                   availability: available -> temporarily_injured
+[2026-03-29 14:37:05 UTC]  UPDATE  Ruturaj Gaikwad                 (no change)
+[2026-03-29 14:37:05 UTC]  UPDATE  Sanju Samson                    (no change)
+[2026-03-29 14:37:05 UTC]  UPDATE  Shivam Dube                     (no change)
+[2026-03-29 14:37:05 UTC]  UPDATE  Ayush Mhatre                    (no change)
+[2026-03-29 14:37:05 UTC]  UPDATE  Kartik Sharma                   (no change)
+[2026-03-29 14:37:05 UTC]  UPDATE  Prashant Veer                   (no change)
+[2026-03-29 14:37:05 UTC]  UPDATE  Jamie Overton                   (no change)
+[2026-03-29 14:37:05 UTC]  UPDATE  Noor Ahmad                      (no change)
+[2026-03-29 14:37:05 UTC]  UPDATE  Matt Henry                      (no change)
+[2026-03-29 14:37:05 UTC]  UPDATE  Khaleel Ahmed                   (no change)
+[2026-03-29 14:37:05 UTC]  UPDATE  Akeal Hosein                    (no change)
+[2026-03-29 14:37:05 UTC]  UPDATE  Matthew Short                   availability: available -> benched
+[2026-03-29 14:37:05 UTC]  UPDATE  Spencer Johnson                 availability: available -> benched
+[2026-03-29 14:41:20 UTC]  UPDATE  Sam Curran                      availability: available -> ruled_out
+[2026-03-29 14:41:20 UTC]  UPDATE  Dasun Shanaka                   (no change)
+[2026-03-29 14:41:20 UTC]  UPDATE  Yashasvi Jaiswal                (no change)
+[2026-03-29 14:41:20 UTC]  UPDATE  Vaibhav Suryavanshi             (no change)
+[2026-03-29 14:41:20 UTC]  UPDATE  Shimron Hetmyer                 (no change)
+[2026-03-29 14:41:20 UTC]  UPDATE  Riyan Parag                     (no change)
+[2026-03-29 14:41:20 UTC]  UPDATE  Dhruv Jurel                     (no change)
+[2026-03-29 14:41:20 UTC]  UPDATE  Ravindra Jadeja                 (no change)
+[2026-03-29 14:41:20 UTC]  UPDATE  Jofra Archer                    (no change)
+[2026-03-29 14:41:20 UTC]  UPDATE  Ravi Bishnoi                    (no change)
+[2026-03-29 14:41:20 UTC]  UPDATE  Nandre Burger                   (no change)
+[2026-03-29 14:41:20 UTC]  UPDATE  Sandeep Sharma                  (no change)
+[2026-03-29 14:41:20 UTC]  UPDATE  Donovan Ferreira                (no change)
+[2026-03-29 14:41:20 UTC]  UPDATE  Tushar Deshpande                (no change)
+[2026-03-29 14:41:20 UTC]  UPDATE  Kuldeep Sen                     (no change)
+[2026-03-29 14:43:02 UTC]  UPDATE  Ben Duckett                     availability: available -> ruled_out
+[2026-03-29 14:45:07 UTC]  UPDATE  Sam Curran                      (no change)
+[2026-03-29 14:45:36 UTC]  UPDATE  Sam Curran                      (no change)
+[2026-03-29 14:45:36 UTC]  UPDATE  Yashasvi Jaiswal                (no change)
+[2026-03-29 14:45:36 UTC]  UPDATE  Vaibhav Sooryavanshi            (no change)
+[2026-03-29 14:45:36 UTC]  UPDATE  Shimron Hetmyer                 (no change)
+[2026-03-29 14:45:36 UTC]  UPDATE  Riyan Parag                     (no change)
+[2026-03-29 14:45:36 UTC]  UPDATE  Dhruv Jurel                     (no change)
+[2026-03-29 14:45:36 UTC]  UPDATE  Ravindra Jadeja                 (no change)
+[2026-03-29 14:45:36 UTC]  UPDATE  Jofra Archer                    (no change)
+[2026-03-29 14:45:36 UTC]  UPDATE  Ravi Bishnoi                    (no change)
+[2026-03-29 14:45:36 UTC]  UPDATE  Nandre Burger                   (no change)
+[2026-03-29 14:45:36 UTC]  UPDATE  Sandeep Sharma                  (no change)
+[2026-03-29 14:45:36 UTC]  UPDATE  Donovan Ferreira                availability: available -> benched
+[2026-03-29 14:45:36 UTC]  UPDATE  Dasun Shanaka                   availability: available -> benched
+[2026-03-29 14:45:36 UTC]  UPDATE  Tushar Deshpande                availability: available -> benched
+[2026-03-29 14:45:36 UTC]  UPDATE  Kuldeep Sen                     availability: available -> benched
+[2026-03-29 14:48:09 UTC]  UPDATE  Rohit Sharma                    (no change)
+[2026-03-29 14:48:09 UTC]  UPDATE  Ryan Rickelton                  (no change)
+[2026-03-29 14:48:09 UTC]  UPDATE  Suryakumar Yadav                (no change)
+[2026-03-29 14:48:09 UTC]  UPDATE  Tilak Varma                     (no change)
+[2026-03-29 14:48:09 UTC]  UPDATE  Hardik Pandya                   (no change)
+[2026-03-29 14:48:09 UTC]  UPDATE  Naman Dhir                      (no change)
+[2026-03-29 14:48:09 UTC]  UPDATE  Shardul Thakur                  (no change)
+[2026-03-29 14:48:09 UTC]  UPDATE  Trent Boult                     (no change)
+[2026-03-29 14:48:09 UTC]  UPDATE  Jasprit Bumrah                  (no change)
+[2026-03-29 14:48:09 UTC]  UPDATE  Mayank Markande                 (no change)
+[2026-03-29 14:48:09 UTC]  UPDATE  Quinton de Kock                 (no change)
+[2026-03-29 14:48:09 UTC]  UPDATE  Will Jacks                      availability: benched -> ruled_out
+[2026-03-29 14:48:09 UTC]  UPDATE  Mitchell Santner                availability: available -> ruled_out
+[2026-03-29 14:48:09 UTC]  UPDATE  Deepak Chahar                   (no change)
+[2026-03-29 14:48:09 UTC]  UPDATE  Sherfane Rutherford             availability: available -> benched
+[2026-03-29 14:48:09 UTC]  UPDATE  AM Ghazanfar                    availability: available -> benched
+[2026-03-29 14:51:39 UTC]  UPDATE  Matheesha Pathirana             availability: temporarily_injured -> ruled_out
+[2026-03-29 14:51:39 UTC]  UPDATE  Mustafizur Rahman               availability: available -> ruled_out
+[2026-03-29 14:51:39 UTC]  UPDATE  Harshit Rana                    (no change)
+[2026-03-29 14:51:39 UTC]  UPDATE  Akash Deep                      (no change)
+[2026-03-29 14:51:39 UTC]  UPDATE  Cameron Green                   (no change)
+[2026-03-29 14:51:39 UTC]  UPDATE  Blessing Muzarabani             (no change)
+[2026-03-29 14:51:39 UTC]  UPDATE  Saurabh Dubey                   (no change)
+[2026-03-29 14:54:53 UTC]  UPDATE  Finn Allen                      (no change)
+[2026-03-29 14:54:53 UTC]  UPDATE  Ajinkya Rahane                  (no change)
+[2026-03-29 14:54:53 UTC]  UPDATE  Angkrish Raghuvanshi            (no change)
+[2026-03-29 14:54:53 UTC]  UPDATE  Rinku Singh                     (no change)
+[2026-03-29 14:54:53 UTC]  UPDATE  Ramandeep Singh                 (no change)
+[2026-03-29 14:54:53 UTC]  UPDATE  Sunil Narine                    (no change)
+[2026-03-29 14:54:53 UTC]  UPDATE  Varun Chakaravarthy             (no change)
+[2026-03-29 14:54:53 UTC]  UPDATE  Vaibhav Arora                   (no change)
+[2026-03-29 14:54:53 UTC]  UPDATE  Umran Malik                     (no change)
+[2026-03-29 14:54:53 UTC]  UPDATE  Kartik Tyagi                    (no change)
+[2026-03-29 14:54:53 UTC]  UPDATE  Rachin Ravindra                 availability: available -> benched
+[2026-03-29 14:54:53 UTC]  UPDATE  Rahul Tripathi                  availability: available -> benched
+[2026-03-29 14:54:53 UTC]  UPDATE  Manish Pandey                   availability: available -> benched
+[2026-03-29 15:06:50 UTC]  UPDATE  Lockie Ferguson                 availability: available -> temporarily_injured
+[2026-03-29 15:07:11 UTC]  UPDATE  Lockie Ferguson                 (no change)
+[2026-03-29 15:07:11 UTC]  UPDATE  Priyansh Arya                   (no change)
+[2026-03-29 15:07:11 UTC]  UPDATE  Prabhsimran Singh               (no change)
+[2026-03-29 15:07:11 UTC]  UPDATE  Shreyas Iyer                    (no change)
+[2026-03-29 15:07:11 UTC]  UPDATE  Nehal Wadhera                   (no change)
+[2026-03-29 15:07:11 UTC]  UPDATE  Marcus Stoinis                  (no change)
+[2026-03-29 15:07:11 UTC]  UPDATE  Shashank Singh                  (no change)
+[2026-03-29 15:07:11 UTC]  UPDATE  Mitchell Owen                   (no change)
+[2026-03-29 15:07:11 UTC]  UPDATE  Marco Jansen                    (no change)
+[2026-03-29 15:07:11 UTC]  UPDATE  Harpreet Brar                   (no change)
+[2026-03-29 15:07:11 UTC]  UPDATE  Arshdeep Singh                  (no change)
+[2026-03-29 15:07:11 UTC]  UPDATE  Yuzvendra Chahal                (no change)
+[2026-03-29 15:07:11 UTC]  UPDATE  Musheer Khan                    availability: available -> benched
+[2026-03-29 15:07:11 UTC]  UPDATE  Suryansh Shedge                 availability: available -> benched
+[2026-03-29 15:07:11 UTC]  UPDATE  Yash Thakur                     availability: available -> benched
+[2026-03-29 15:07:11 UTC]  UPDATE  Vijaykumar Vyshak               availability: available -> benched
+[2026-03-29 15:07:11 UTC]  UPDATE  Harnoor Singh                   availability: available -> benched
+[2026-03-29 15:07:11 UTC]  UPDATE  Vishnu Vinod                    availability: available -> benched
+[2026-03-29 15:07:11 UTC]  UPDATE  Ben Dwarshuis                   availability: available -> benched
+[2026-03-29 15:07:11 UTC]  UPDATE  Cooper Connolly                 availability: available -> benched
+[2026-03-29 15:07:11 UTC]  UPDATE  Praveen Dubey                   availability: available -> benched
+[2026-03-29 15:07:11 UTC]  UPDATE  Vishal Nishad                   availability: available -> benched
+[2026-03-29 15:07:33 UTC]  UPDATE  Shubman Gill                    (no change)
+[2026-03-29 15:07:33 UTC]  UPDATE  Sai Sudharsan                   (no change)
+[2026-03-29 15:07:33 UTC]  UPDATE  Jos Buttler                     (no change)
+[2026-03-29 15:07:33 UTC]  UPDATE  Washington Sundar               (no change)
+[2026-03-29 15:07:33 UTC]  UPDATE  Glenn Phillips                  (no change)
+[2026-03-29 15:07:33 UTC]  UPDATE  Tom Banton                      availability: available -> benched
+[2026-03-29 15:07:33 UTC]  UPDATE  Shahrukh Khan                   (no change)
+[2026-03-29 15:07:33 UTC]  UPDATE  Rahul Tewatia                   (no change)
+[2026-03-29 15:07:33 UTC]  UPDATE  Rashid Khan                     (no change)
+[2026-03-29 15:07:33 UTC]  UPDATE  R Sai Kishore                   (no change)
+[2026-03-29 15:07:33 UTC]  UPDATE  Mohammed Siraj                  (no change)
+[2026-03-29 15:07:33 UTC]  UPDATE  Kagiso Rabada                   (no change)
+[2026-03-29 15:07:33 UTC]  UPDATE  Jason Holder                    availability: available -> benched
+[2026-03-29 15:07:33 UTC]  UPDATE  Prasidh Krishna                 (no change)
+[2026-03-29 15:07:33 UTC]  UPDATE  Kumar Kushagra                  availability: available -> benched
+[2026-03-29 15:07:33 UTC]  UPDATE  Luke Wood                       availability: available -> benched
+[2026-03-29 15:07:33 UTC]  UPDATE  Prithvi Raj                     availability: available -> benched
+[2026-03-29 15:07:33 UTC]  UPDATE  Ashok Sharma                    availability: available -> benched
+[2026-03-29 15:09:34 UTC]  UPDATE  Lockie Ferguson                 (no change)
+[2026-03-29 15:09:34 UTC]  UPDATE  Wanindu Hasaranga               availability: available -> temporarily_injured
+[2026-03-29 15:09:34 UTC]  UPDATE  Mitchell Starc                  availability: available -> temporarily_injured
+[2026-03-29 15:10:01 UTC]  UPDATE  Lockie Ferguson                 (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Wanindu Hasaranga               (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Mitchell Starc                  (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Priyansh Arya                   (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Prabhsimran Singh               (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Shreyas Iyer                    (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Nehal Wadhera                   (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Marcus Stoinis                  (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Shashank Singh                  (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Mitchell Owen                   (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Marco Jansen                    (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Harpreet Brar                   (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Arshdeep Singh                  (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Yuzvendra Chahal                (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Shubman Gill                    (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Sai Sudharsan                   (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Jos Buttler                     (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Washington Sundar               (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Glenn Phillips                  (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Shahrukh Khan                   (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Rahul Tewatia                   (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Rashid Khan                     (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Sai Kishore                     (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Ravisrinivasan Sai Kishore      (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Mohammed Siraj                  (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Kagiso Rabada                   (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Prasidh Krishna                 (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Aiden Markram                   (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Mitchell Marsh                  (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Nicholas Pooran                 (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Rishabh Pant                    (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Josh Inglis                     (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Ayush Badoni                    (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Shahbaz Ahmed                   (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Mohammad Shami                  (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Digvesh Singh                   (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Avesh Khan                      (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Mayank Yadav                    (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Mohsin Khan                     (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  KL Rahul                        (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Pathum Nissanka                 (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Nitish Rana                     (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  David Miller                    (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Tristan Stubbs                  (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Axar Patel                      (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Ashutosh Sharma                 (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Kuldeep Yadav                   (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Auqib Nabi                      (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Mukesh Kumar                    (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  T Natarajan                     (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Harnoor Singh                   (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Ben Dwarshuis                   (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Tom Banton                      (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Jason Holder                    (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Kumar Kushagra                  (no change)
+[2026-03-29 15:10:01 UTC]  UPDATE  Anrich Nortje                   availability: available -> benched
+[2026-03-29 15:10:01 UTC]  UPDATE  Naman Tiwari                    availability: available -> benched
+[2026-03-29 15:10:01 UTC]  UPDATE  Mukul Choudhary                 availability: available -> benched
+[2026-03-29 15:10:01 UTC]  UPDATE  Matthew Breetzke                availability: available -> benched
+[2026-03-29 15:10:01 UTC]  UPDATE  Sameer Rizvi                    availability: available -> benched
+[2026-03-29 15:10:01 UTC]  UPDATE  Karun Nair                      availability: available -> benched
+[2026-03-29 15:10:01 UTC]  UPDATE  Ben Duckett                     availability: ruled_out -> benched
+[2026-03-29 15:10:01 UTC]  UPDATE  Prithvi Shaw                    availability: available -> benched
+[2026-03-29 15:10:01 UTC]  UPDATE  Abishek Porel                   availability: available -> benched
+[2026-03-29 15:10:01 UTC]  UPDATE  Vipraj Nigam                    availability: available -> benched
+[2026-03-29 15:32:38 UTC]  UPDATE  Lockie Ferguson                 (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Lockie Ferguson                 (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Priyansh Arya                   (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Prabhsimran Singh               (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Shreyas Iyer                    (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Nehal Wadhera                   (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Marcus Stoinis                  (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Shashank Singh                  (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Mitchell Owen                   (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Marco Jansen                    (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Harpreet Brar                   (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Arshdeep Singh                  (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Yuzvendra Chahal                (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Harnoor Singh                   (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Ben Dwarshuis                   (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Shubman Gill                    (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Sai Sudharsan                   (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Jos Buttler                     (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Washington Sundar               (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Glenn Phillips                  (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Shahrukh Khan                   (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Rahul Tewatia                   (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Rashid Khan                     (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  R Sai Kishore                   (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Mohammed Siraj                  (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Kagiso Rabada                   (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Prasidh Krishna                 (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Tom Banton                      (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Jason Holder                    (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Kumar Kushagra                  (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Wanindu Hasaranga               (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Aiden Markram                   (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Mitchell Marsh                  (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Nicholas Pooran                 (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Rishabh Pant                    (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Josh Inglis                     (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Ayush Badoni                    (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Shahbaz Ahmed                   (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Mohammad Shami                  (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Digvesh Singh                   (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Avesh Khan                      (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Mayank Yadav                    (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Mohsin Khan                     (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Anrich Nortje                   (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Naman Tiwari                    (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Mukul Choudhary                 (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Matthew Breetzke                (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Mitchell Starc                  (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  KL Rahul                        (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Pathum Nissanka                 (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Nitish Rana                     (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  David Miller                    (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Tristan Stubbs                  (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Axar Patel                      (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Ashutosh Sharma                 (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Kuldeep Yadav                   (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Auqib Nabi                      (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Mukesh Kumar                    (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  T Natarajan                     (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Sameer Rizvi                    (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Karun Nair                      (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Ben Duckett                     (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Prithvi Shaw                    (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Abishek Porel                   (no change)
+[2026-03-29 15:33:00 UTC]  UPDATE  Vipraj Nigam                    (no change)

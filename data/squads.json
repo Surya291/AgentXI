@@ -1,0 +1,2343 @@
+{
+  "MI": {
+    "BOWLER": [
+      {
+        "Id": 63755,
+        "ShortName": "Jasprit Bumrah",
+        "Value": 11.0,
+        "SelectedPer": 20.72,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 4338,
+        "ShortName": "Trent Boult",
+        "Value": 10.0,
+        "SelectedPer": 4.26,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 67126,
+        "ShortName": "Mayank Markande",
+        "Value": 7.5,
+        "SelectedPer": 1.72,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 59547,
+        "ShortName": "Deepak Chahar",
+        "Value": 9.5,
+        "SelectedPer": 1.56,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 74296,
+        "ShortName": "Ashwani Kumar",
+        "Value": 8.5,
+        "SelectedPer": 1.06,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 96648,
+        "ShortName": "AM Ghazanfar",
+        "Value": 7.0,
+        "SelectedPer": 0.62,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 137547,
+        "ShortName": "Mohammad Izhar",
+        "Value": 7.0,
+        "SelectedPer": 0.28,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 67726,
+        "ShortName": "Raghu Sharma",
+        "Value": 7.0,
+        "SelectedPer": 0.27,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      }
+    ],
+    "BATSMAN": [
+      {
+        "Id": 3852,
+        "ShortName": "Rohit Sharma",
+        "Value": 10.0,
+        "SelectedPer": 6.69,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 70761,
+        "ShortName": "Tilak Varma",
+        "Value": 10.0,
+        "SelectedPer": 6.05,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 11803,
+        "ShortName": "Suryakumar Yadav",
+        "Value": 10.5,
+        "SelectedPer": 5.31,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 67285,
+        "ShortName": "Sherfane Rutherford",
+        "Value": 8.0,
+        "SelectedPer": 2.55,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 89179,
+        "ShortName": "Danish Malewar",
+        "Value": 7.0,
+        "SelectedPer": 0.59,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      }
+    ],
+    "ALL ROUNDER": [
+      {
+        "Id": 63751,
+        "ShortName": "Hardik Pandya",
+        "Value": 10.5,
+        "SelectedPer": 17.42,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 66927,
+        "ShortName": "Will Jacks",
+        "Value": 9.0,
+        "SelectedPer": 4.75,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 57903,
+        "ShortName": "Mitchell Santner",
+        "Value": 9.0,
+        "SelectedPer": 1.63,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 63605,
+        "ShortName": "Corbin Bosch",
+        "Value": 7.5,
+        "SelectedPer": 1.63,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 63345,
+        "ShortName": "Shardul Thakur",
+        "Value": 9.0,
+        "SelectedPer": 0.98,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 100353,
+        "ShortName": "Naman Dhir",
+        "Value": 9.5,
+        "SelectedPer": 0.73,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 89168,
+        "ShortName": "Raj Bawa",
+        "Value": 7.5,
+        "SelectedPer": 0.23,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 66974,
+        "ShortName": "Mayank Rawat",
+        "Value": 7.5,
+        "SelectedPer": 0.22,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 68585,
+        "ShortName": "Atharva Ankolekar",
+        "Value": 7.5,
+        "SelectedPer": 0.2,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      }
+    ],
+    "WICKET KEEPER": [
+      {
+        "Id": 28035,
+        "ShortName": "Quinton de Kock",
+        "Value": 8.0,
+        "SelectedPer": 7.83,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 64941,
+        "ShortName": "Ryan Rickelton",
+        "Value": 9.0,
+        "SelectedPer": 1.76,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 95322,
+        "ShortName": "Robin Minz",
+        "Value": 7.0,
+        "SelectedPer": 0.45,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      }
+    ]
+  },
+  "RCB": {
+    "BATSMAN": [
+      {
+        "Id": 3993,
+        "ShortName": "Virat Kohli",
+        "Value": 11.0,
+        "SelectedPer": 54.88,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 85736,
+        "ShortName": "Jacob Bethell",
+        "Value": 7.5,
+        "SelectedPer": 36.13,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 65687,
+        "ShortName": "Rajat Patidar",
+        "Value": 9.0,
+        "SelectedPer": 24.66,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 67589,
+        "ShortName": "Devdutt Padikkal",
+        "Value": 9.0,
+        "SelectedPer": 12.75,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 67402,
+        "ShortName": "Tim David",
+        "Value": 9.0,
+        "SelectedPer": 9.1,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      }
+    ],
+    "BOWLER": [
+      {
+        "Id": 5132,
+        "ShortName": "Bhuvneshwar Kumar",
+        "Value": 9.0,
+        "SelectedPer": 32.94,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 100564,
+        "ShortName": "Suyash Sharma",
+        "Value": 8.0,
+        "SelectedPer": 21.33,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 70155,
+        "ShortName": "Yash Dayal",
+        "Value": 8.0,
+        "SelectedPer": 12.19,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 57672,
+        "ShortName": "Jacob Duffy",
+        "Value": 7.0,
+        "SelectedPer": 11.12,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 4255,
+        "ShortName": "Josh Hazlewood",
+        "Value": 10.0,
+        "SelectedPer": 7.34,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 70296,
+        "ShortName": "Rasikh Salam",
+        "Value": 7.5,
+        "SelectedPer": 4.26,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 66158,
+        "ShortName": "Nuwan Thushara",
+        "Value": 7.5,
+        "SelectedPer": 3.42,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 126643,
+        "ShortName": "Abhinandan Singh",
+        "Value": 7.0,
+        "SelectedPer": 0.91,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 88543,
+        "ShortName": "Vicky Ostwal",
+        "Value": 7.0,
+        "SelectedPer": 0.75,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      }
+    ],
+    "WICKET KEEPER": [
+      {
+        "Id": 65632,
+        "ShortName": "Phil Salt",
+        "Value": 9.5,
+        "SelectedPer": 25.99,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 64724,
+        "ShortName": "Jitesh Sharma",
+        "Value": 9.0,
+        "SelectedPer": 8.47,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 70925,
+        "ShortName": "Jordan Cox",
+        "Value": 7.0,
+        "SelectedPer": 1.39,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      }
+    ],
+    "ALL ROUNDER": [
+      {
+        "Id": 63788,
+        "ShortName": "Krunal Pandya",
+        "Value": 9.0,
+        "SelectedPer": 22.97,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 66243,
+        "ShortName": "Romario Shepherd",
+        "Value": 8.5,
+        "SelectedPer": 13.83,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 65430,
+        "ShortName": "Venkatesh Iyer",
+        "Value": 9.0,
+        "SelectedPer": 7.58,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 99932,
+        "ShortName": "Mangesh Yadav",
+        "Value": 7.5,
+        "SelectedPer": 3.86,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 4602,
+        "ShortName": "Swapnil Singh",
+        "Value": 7.5,
+        "SelectedPer": 2.39,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 109339,
+        "ShortName": "Vihaan Malhotra",
+        "Value": 7.5,
+        "SelectedPer": 0.65,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 133195,
+        "ShortName": "Kanishk Chouhan",
+        "Value": 7.5,
+        "SelectedPer": 0.39,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 134795,
+        "ShortName": "Satvik Deswal",
+        "Value": 7.5,
+        "SelectedPer": 0.37,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      }
+    ]
+  },
+  "RR": {
+    "ALL ROUNDER": [
+      {
+        "Id": 66939,
+        "ShortName": "Riyan Parag",
+        "Value": 9.0,
+        "SelectedPer": 4.82,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 3850,
+        "ShortName": "Ravindra Jadeja",
+        "Value": 10.5,
+        "SelectedPer": 3.2,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 65584,
+        "ShortName": "Sam Curran",
+        "Value": 8.5,
+        "SelectedPer": 2.0,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      }
+    ],
+    "BATSMAN": [
+      {
+        "Id": 114349,
+        "ShortName": "Vaibhav Sooryavanshi",
+        "Value": 9.0,
+        "SelectedPer": 18.27,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 69238,
+        "ShortName": "Yashasvi Jaiswal",
+        "Value": 10.0,
+        "SelectedPer": 8.1,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 64861,
+        "ShortName": "Shimron Hetmyer",
+        "Value": 9.5,
+        "SelectedPer": 2.87,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 83453,
+        "ShortName": "Shubham Dubey",
+        "Value": 7.5,
+        "SelectedPer": 0.96,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 88692,
+        "ShortName": "Aman Perala",
+        "Value": 7.0,
+        "SelectedPer": 0.56,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      }
+    ],
+    "BOWLER": [
+      {
+        "Id": 71288,
+        "ShortName": "Ravi Bishnoi",
+        "Value": 8.5,
+        "SelectedPer": 5.95,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 10116,
+        "ShortName": "Sandeep Sharma",
+        "Value": 8.0,
+        "SelectedPer": 4.34,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 64254,
+        "ShortName": "Jofra Archer",
+        "Value": 9.5,
+        "SelectedPer": 1.54,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 65478,
+        "ShortName": "Tushar Deshpande",
+        "Value": 8.5,
+        "SelectedPer": 1.28,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 83549,
+        "ShortName": "Vignesh Puthur",
+        "Value": 8.0,
+        "SelectedPer": 0.65,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 66195,
+        "ShortName": "Nandre Burger",
+        "Value": 7.0,
+        "SelectedPer": 0.64,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 70402,
+        "ShortName": "Kuldeep Sen",
+        "Value": 7.5,
+        "SelectedPer": 0.55,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 74054,
+        "ShortName": "Yudhvir Singh",
+        "Value": 7.5,
+        "SelectedPer": 0.39,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 90908,
+        "ShortName": "Kwena Maphaka",
+        "Value": 7.0,
+        "SelectedPer": 0.35,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 11933,
+        "ShortName": "Adam Milne",
+        "Value": 7.0,
+        "SelectedPer": 0.31,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 71380,
+        "ShortName": "Sushant Mishra",
+        "Value": 7.0,
+        "SelectedPer": 0.29,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 100840,
+        "ShortName": "Yash Punja",
+        "Value": 7.0,
+        "SelectedPer": 0.29,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 133689,
+        "ShortName": "Brijesh Sharma",
+        "Value": 7.0,
+        "SelectedPer": 0.28,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      }
+    ],
+    "WICKET KEEPER": [
+      {
+        "Id": 71370,
+        "ShortName": "Dhruv Jurel",
+        "Value": 9.0,
+        "SelectedPer": 1.04,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 23487,
+        "ShortName": "Donovan Ferreira",
+        "Value": 7.5,
+        "SelectedPer": 0.39,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 109249,
+        "ShortName": "Lhuan-dre Pretorius",
+        "Value": 7.0,
+        "SelectedPer": 0.26,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 129333,
+        "ShortName": "Ravi Singh",
+        "Value": 7.0,
+        "SelectedPer": 0.25,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      }
+    ]
+  },
+  "LSG": {
+    "WICKET KEEPER": [
+      {
+        "Id": 63726,
+        "ShortName": "Nicholas Pooran",
+        "Value": 10.5,
+        "SelectedPer": 4.61,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 65756,
+        "ShortName": "Rishabh Pant",
+        "Value": 9.5,
+        "SelectedPer": 2.55,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 65893,
+        "ShortName": "Josh Inglis",
+        "Value": 8.5,
+        "SelectedPer": 0.65,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 99128,
+        "ShortName": "Mukul Choudhary",
+        "Value": 7.0,
+        "SelectedPer": 0.26,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      }
+    ],
+    "ALL ROUNDER": [
+      {
+        "Id": 64219,
+        "ShortName": "Aiden Markram",
+        "Value": 10.0,
+        "SelectedPer": 3.18,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 10094,
+        "ShortName": "Mitchell Marsh",
+        "Value": 10.0,
+        "SelectedPer": 2.29,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 65027,
+        "ShortName": "Wanindu Hasaranga",
+        "Value": 9.0,
+        "SelectedPer": 0.72,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 58223,
+        "ShortName": "Shahbaz Ahmed",
+        "Value": 8.0,
+        "SelectedPer": 0.71,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 88542,
+        "ShortName": "Arshin Kulkarni",
+        "Value": 8.0,
+        "SelectedPer": 0.17,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      }
+    ],
+    "BATSMAN": [
+      {
+        "Id": 69656,
+        "ShortName": "Ayush Badoni",
+        "Value": 9.0,
+        "SelectedPer": 1.35,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 89169,
+        "ShortName": "Akshat Raghuwanshi",
+        "Value": 7.0,
+        "SelectedPer": 1.35,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 65618,
+        "ShortName": "Matthew Breetzke",
+        "Value": 7.0,
+        "SelectedPer": 0.79,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 71260,
+        "ShortName": "Abdul Samad",
+        "Value": 8.0,
+        "SelectedPer": 0.76,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 65152,
+        "ShortName": "Himmat Singh",
+        "Value": 7.0,
+        "SelectedPer": 0.66,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      }
+    ],
+    "BOWLER": [
+      {
+        "Id": 28994,
+        "ShortName": "Mohammad Shami",
+        "Value": 8.5,
+        "SelectedPer": 6.52,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 90501,
+        "ShortName": "Mayank Yadav",
+        "Value": 7.5,
+        "SelectedPer": 2.67,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 64511,
+        "ShortName": "Avesh Khan",
+        "Value": 8.0,
+        "SelectedPer": 2.3,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 100574,
+        "ShortName": "Digvesh Singh",
+        "Value": 9.0,
+        "SelectedPer": 1.77,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 63641,
+        "ShortName": "Anrich Nortje",
+        "Value": 7.0,
+        "SelectedPer": 1.47,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 68182,
+        "ShortName": "Mohsin Khan",
+        "Value": 7.5,
+        "SelectedPer": 0.95,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 100570,
+        "ShortName": "Prince Yadav",
+        "Value": 7.0,
+        "SelectedPer": 0.92,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 69659,
+        "ShortName": "Arjun Tendulkar",
+        "Value": 7.0,
+        "SelectedPer": 0.58,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 70376,
+        "ShortName": "Akash Singh",
+        "Value": 8.0,
+        "SelectedPer": 0.51,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 67476,
+        "ShortName": "Manimaran Siddharth",
+        "Value": 7.5,
+        "SelectedPer": 0.29,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 88633,
+        "ShortName": "Naman Tiwari",
+        "Value": 7.0,
+        "SelectedPer": 0.29,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      }
+    ]
+  },
+  "KKR": {
+    "ALL ROUNDER": [
+      {
+        "Id": 11229,
+        "ShortName": "Sunil Narine",
+        "Value": 10.5,
+        "SelectedPer": 7.04,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 66053,
+        "ShortName": "Rachin Ravindra",
+        "Value": 9.0,
+        "SelectedPer": 2.54,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 66983,
+        "ShortName": "Anukul Roy",
+        "Value": 7.5,
+        "SelectedPer": 0.54,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 65945,
+        "ShortName": "Sarthak Ranjan",
+        "Value": 7.5,
+        "SelectedPer": 0.21,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 137799,
+        "ShortName": "Daksh Kamra",
+        "Value": 7.5,
+        "SelectedPer": 0.21,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      }
+    ],
+    "BOWLER": [
+      {
+        "Id": 67469,
+        "ShortName": "Varun Chakaravarthy",
+        "Value": 10.0,
+        "SelectedPer": 10.49,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 93526,
+        "ShortName": "Harshit Rana",
+        "Value": 9.0,
+        "SelectedPer": 2.58,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 82969,
+        "ShortName": "Umran Malik",
+        "Value": 7.5,
+        "SelectedPer": 2.0,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 71447,
+        "ShortName": "Akash Deep",
+        "Value": 7.5,
+        "SelectedPer": 1.96,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 74298,
+        "ShortName": "Vaibhav Arora",
+        "Value": 9.0,
+        "SelectedPer": 1.88,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 67735,
+        "ShortName": "Kartik Tyagi",
+        "Value": 7.0,
+        "SelectedPer": 1.76,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 73830,
+        "ShortName": "Matheesha Pathirana",
+        "Value": 9.0,
+        "SelectedPer": 1.33,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 72042,
+        "ShortName": "Prashant Solanki",
+        "Value": 7.0,
+        "SelectedPer": 0.3,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      }
+    ],
+    "BATSMAN": [
+      {
+        "Id": 66870,
+        "ShortName": "Cameron Green",
+        "Value": 8.0,
+        "SelectedPer": 13.3,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 3991,
+        "ShortName": "Ajinkya Rahane",
+        "Value": 9.0,
+        "SelectedPer": 4.93,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 88352,
+        "ShortName": "Angkrish Raghuvanshi",
+        "Value": 9.0,
+        "SelectedPer": 4.52,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 66953,
+        "ShortName": "Ramandeep Singh",
+        "Value": 7.5,
+        "SelectedPer": 2.41,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 64727,
+        "ShortName": "Rinku Singh",
+        "Value": 9.0,
+        "SelectedPer": 2.02,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 41229,
+        "ShortName": "Rahul Tripathi",
+        "Value": 8.0,
+        "SelectedPer": 1.47,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 65291,
+        "ShortName": "Rovman Powell",
+        "Value": 8.0,
+        "SelectedPer": 1.4,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 4276,
+        "ShortName": "Manish Pandey",
+        "Value": 8.0,
+        "SelectedPer": 1.34,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      }
+    ],
+    "WICKET KEEPER": [
+      {
+        "Id": 66046,
+        "ShortName": "Finn Allen",
+        "Value": 7.0,
+        "SelectedPer": 17.9,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 63867,
+        "ShortName": "Tim Seifert",
+        "Value": 7.5,
+        "SelectedPer": 5.18,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 126180,
+        "ShortName": "Tejasvi Singh",
+        "Value": 7.0,
+        "SelectedPer": 0.26,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      }
+    ]
+  },
+  "PBKS": {
+    "BATSMAN": [
+      {
+        "Id": 63961,
+        "ShortName": "Shreyas Iyer",
+        "Value": 10.5,
+        "SelectedPer": 8.52,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 71366,
+        "ShortName": "Priyansh Arya",
+        "Value": 9.5,
+        "SelectedPer": 5.13,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 63520,
+        "ShortName": "Shashank Singh",
+        "Value": 9.0,
+        "SelectedPer": 1.69,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 69657,
+        "ShortName": "Nehal Wadhera",
+        "Value": 9.5,
+        "SelectedPer": 0.85,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 81901,
+        "ShortName": "Pyla Avinash",
+        "Value": 7.0,
+        "SelectedPer": 0.72,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 89196,
+        "ShortName": "Harnoor Singh",
+        "Value": 7.0,
+        "SelectedPer": 0.57,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      }
+    ],
+    "BOWLER": [
+      {
+        "Id": 67905,
+        "ShortName": "Arshdeep Singh",
+        "Value": 10.0,
+        "SelectedPer": 7.32,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 9844,
+        "ShortName": "Yuzvendra Chahal",
+        "Value": 9.5,
+        "SelectedPer": 3.43,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 63719,
+        "ShortName": "Lockie Ferguson",
+        "Value": 8.0,
+        "SelectedPer": 1.31,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 70500,
+        "ShortName": "Harpreet Brar",
+        "Value": 8.5,
+        "SelectedPer": 1.3,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 66819,
+        "ShortName": "Yash Thakur",
+        "Value": 7.0,
+        "SelectedPer": 1.03,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 66516,
+        "ShortName": "Xavier Bartlett",
+        "Value": 7.0,
+        "SelectedPer": 0.93,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 67628,
+        "ShortName": "Vijaykumar Vyshak",
+        "Value": 8.0,
+        "SelectedPer": 0.66,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 63550,
+        "ShortName": "Praveen Dubey",
+        "Value": 7.0,
+        "SelectedPer": 0.29,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 126819,
+        "ShortName": "Vishal Nishad",
+        "Value": 7.0,
+        "SelectedPer": 0.28,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      }
+    ],
+    "ALL ROUNDER": [
+      {
+        "Id": 69409,
+        "ShortName": "Marco Jansen",
+        "Value": 9.5,
+        "SelectedPer": 4.55,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 4311,
+        "ShortName": "Marcus Stoinis",
+        "Value": 9.0,
+        "SelectedPer": 1.31,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 67516,
+        "ShortName": "Azmatullah Omarzai",
+        "Value": 9.0,
+        "SelectedPer": 0.91,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 81813,
+        "ShortName": "Mitchell Owen",
+        "Value": 7.5,
+        "SelectedPer": 0.62,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 74410,
+        "ShortName": "Cooper Connolly",
+        "Value": 7.5,
+        "SelectedPer": 0.4,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 94786,
+        "ShortName": "Musheer Khan",
+        "Value": 7.5,
+        "SelectedPer": 0.23,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 64473,
+        "ShortName": "Ben Dwarshuis",
+        "Value": 7.5,
+        "SelectedPer": 0.23,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 71951,
+        "ShortName": "Suryansh Shedge",
+        "Value": 7.5,
+        "SelectedPer": 0.22,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      }
+    ],
+    "WICKET KEEPER": [
+      {
+        "Id": 70222,
+        "ShortName": "Prabhsimran Singh",
+        "Value": 9.0,
+        "SelectedPer": 3.11,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 64783,
+        "ShortName": "Vishnu Vinod",
+        "Value": 7.0,
+        "SelectedPer": 0.26,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      }
+    ]
+  },
+  "SRH": {
+    "ALL ROUNDER": [
+      {
+        "Id": 66799,
+        "ShortName": "Abhishek Sharma",
+        "Value": 10.5,
+        "SelectedPer": 51.5,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 74837,
+        "ShortName": "Nitish Kumar Reddy",
+        "Value": 9.0,
+        "SelectedPer": 8.67,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 63940,
+        "ShortName": "Liam Livingstone",
+        "Value": 9.0,
+        "SelectedPer": 6.86,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 113017,
+        "ShortName": "Aniket Verma",
+        "Value": 9.0,
+        "SelectedPer": 3.93,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 71368,
+        "ShortName": "Harsh Dubey",
+        "Value": 8.5,
+        "SelectedPer": 2.44,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 65034,
+        "ShortName": "Kamindu Mendis",
+        "Value": 8.5,
+        "SelectedPer": 1.7,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 67266,
+        "ShortName": "Jack Edwards",
+        "Value": 7.5,
+        "SelectedPer": 0.67,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 124639,
+        "ShortName": "Shivang Kumar",
+        "Value": 7.5,
+        "SelectedPer": 0.58,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 129988,
+        "ShortName": "Krains Fuletra",
+        "Value": 7.5,
+        "SelectedPer": 0.35,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      }
+    ],
+    "WICKET KEEPER": [
+      {
+        "Id": 64712,
+        "ShortName": "Ishan Kishan",
+        "Value": 10.5,
+        "SelectedPer": 55.05,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 59736,
+        "ShortName": "Heinrich Klaasen",
+        "Value": 10.0,
+        "SelectedPer": 11.38,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 73152,
+        "ShortName": "Salil Arora",
+        "Value": 7.0,
+        "SelectedPer": 2.78,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      }
+    ],
+    "BATSMAN": [
+      {
+        "Id": 62023,
+        "ShortName": "Travis Head",
+        "Value": 10.0,
+        "SelectedPer": 36.49,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 88627,
+        "ShortName": "Ravichandran Smaran",
+        "Value": 7.0,
+        "SelectedPer": 9.4,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      }
+    ],
+    "BOWLER": [
+      {
+        "Id": 5448,
+        "ShortName": "Jaydev Unadkat",
+        "Value": 7.0,
+        "SelectedPer": 27.12,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 5407,
+        "ShortName": "Harshal Patel",
+        "Value": 9.5,
+        "SelectedPer": 20.62,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 65861,
+        "ShortName": "Zeeshan Ansari",
+        "Value": 7.0,
+        "SelectedPer": 15.57,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 94784,
+        "ShortName": "Eshan Malinga",
+        "Value": 8.5,
+        "SelectedPer": 4.77,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 56964,
+        "ShortName": "Pat Cummins",
+        "Value": 9.5,
+        "SelectedPer": 4.66,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 66984,
+        "ShortName": "Shivam Mavi",
+        "Value": 7.5,
+        "SelectedPer": 4.44,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 65090,
+        "ShortName": "Brydon Carse",
+        "Value": 7.0,
+        "SelectedPer": 3.58,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 99098,
+        "ShortName": "Sakib Hussain",
+        "Value": 7.0,
+        "SelectedPer": 1.11,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 132820,
+        "ShortName": "Onkar Tarmale",
+        "Value": 7.0,
+        "SelectedPer": 0.68,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 81356,
+        "ShortName": "Amit Kumar",
+        "Value": 7.0,
+        "SelectedPer": 0.67,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 88089,
+        "ShortName": "Praful Hinge",
+        "Value": 7.0,
+        "SelectedPer": 0.67,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      }
+    ]
+  },
+  "GT": {
+    "WICKET KEEPER": [
+      {
+        "Id": 9782,
+        "ShortName": "Jos Buttler",
+        "Value": 10.0,
+        "SelectedPer": 2.82,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 67752,
+        "ShortName": "Anuj Rawat",
+        "Value": 7.0,
+        "SelectedPer": 0.65,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 66923,
+        "ShortName": "Tom Banton",
+        "Value": 7.0,
+        "SelectedPer": 0.26,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 74097,
+        "ShortName": "Kumar Kushagra",
+        "Value": 7.0,
+        "SelectedPer": 0.26,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      }
+    ],
+    "BATSMAN": [
+      {
+        "Id": 69500,
+        "ShortName": "Sai Sudharsan",
+        "Value": 10.0,
+        "SelectedPer": 6.93,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 66818,
+        "ShortName": "Shubman Gill",
+        "Value": 10.0,
+        "SelectedPer": 6.88,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 64721,
+        "ShortName": "Shahrukh Khan",
+        "Value": 8.5,
+        "SelectedPer": 0.66,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      }
+    ],
+    "BOWLER": [
+      {
+        "Id": 63611,
+        "ShortName": "Kagiso Rabada",
+        "Value": 7.5,
+        "SelectedPer": 4.99,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 65748,
+        "ShortName": "Rashid Khan",
+        "Value": 9.5,
+        "SelectedPer": 3.34,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 65702,
+        "ShortName": "Prasidh Krishna",
+        "Value": 9.0,
+        "SelectedPer": 2.94,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 65799,
+        "ShortName": "Mohammed Siraj",
+        "Value": 9.5,
+        "SelectedPer": 2.56,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 66438,
+        "ShortName": "Sai Kishore",
+        "Value": 9.5,
+        "SelectedPer": 1.96,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 3899,
+        "ShortName": "Ishant Sharma",
+        "Value": 8.0,
+        "SelectedPer": 0.7,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 82839,
+        "ShortName": "Arshad Khan",
+        "Value": 8.0,
+        "SelectedPer": 0.58,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 91316,
+        "ShortName": "Ashok Sharma",
+        "Value": 7.0,
+        "SelectedPer": 0.49,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 64498,
+        "ShortName": "Luke Wood",
+        "Value": 7.0,
+        "SelectedPer": 0.36,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 59611,
+        "ShortName": "Jayant Yadav",
+        "Value": 7.0,
+        "SelectedPer": 0.3,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 71149,
+        "ShortName": "Manav Suthar",
+        "Value": 7.0,
+        "SelectedPer": 0.29,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 90572,
+        "ShortName": "Gurnoor Brar",
+        "Value": 7.0,
+        "SelectedPer": 0.29,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 67706,
+        "ShortName": "Prithvi Raj Yarra",
+        "Value": 7.0,
+        "SelectedPer": 0.27,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      }
+    ],
+    "ALL ROUNDER": [
+      {
+        "Id": 65295,
+        "ShortName": "Glenn Phillips",
+        "Value": 8.0,
+        "SelectedPer": 3.53,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 65859,
+        "ShortName": "Washington Sundar",
+        "Value": 8.5,
+        "SelectedPer": 2.0,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 10232,
+        "ShortName": "Jason Holder",
+        "Value": 8.0,
+        "SelectedPer": 1.63,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 64440,
+        "ShortName": "Rahul Tewatia",
+        "Value": 9.0,
+        "SelectedPer": 0.55,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 88873,
+        "ShortName": "Nishant Sindhu",
+        "Value": 7.5,
+        "SelectedPer": 0.21,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      }
+    ]
+  },
+  "DC": {
+    "BOWLER": [
+      {
+        "Id": 65160,
+        "ShortName": "T Natarajan",
+        "Value": 7.5,
+        "SelectedPer": 3.31,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 64225,
+        "ShortName": "Lungi Ngidi",
+        "Value": 8.0,
+        "SelectedPer": 3.15,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 63187,
+        "ShortName": "Kuldeep Yadav",
+        "Value": 9.5,
+        "SelectedPer": 3.12,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 10053,
+        "ShortName": "Mitchell Starc",
+        "Value": 10.0,
+        "SelectedPer": 2.95,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 65723,
+        "ShortName": "Mukesh Kumar",
+        "Value": 8.5,
+        "SelectedPer": 1.19,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 63865,
+        "ShortName": "Kyle Jamieson",
+        "Value": 8.0,
+        "SelectedPer": 0.73,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 58065,
+        "ShortName": "Dushmantha Chameera",
+        "Value": 8.0,
+        "SelectedPer": 0.46,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      }
+    ],
+    "WICKET KEEPER": [
+      {
+        "Id": 60122,
+        "ShortName": "KL Rahul",
+        "Value": 10.0,
+        "SelectedPer": 6.09,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 82442,
+        "ShortName": "Abishek Porel",
+        "Value": 8.5,
+        "SelectedPer": 1.42,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 63082,
+        "ShortName": "Ben Duckett",
+        "Value": 7.0,
+        "SelectedPer": 0.78,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      }
+    ],
+    "ALL ROUNDER": [
+      {
+        "Id": 62576,
+        "ShortName": "Axar Patel",
+        "Value": 9.5,
+        "SelectedPer": 8.18,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 70172,
+        "ShortName": "Auqib Nabi",
+        "Value": 7.5,
+        "SelectedPer": 3.54,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 88677,
+        "ShortName": "Vipraj Nigam",
+        "Value": 9.0,
+        "SelectedPer": 0.62,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 90635,
+        "ShortName": "Tripurana Vijay",
+        "Value": 7.5,
+        "SelectedPer": 0.22,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 66558,
+        "ShortName": "Ajay Mandal",
+        "Value": 7.5,
+        "SelectedPer": 0.21,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 124649,
+        "ShortName": "Madhav Tiwari",
+        "Value": 7.5,
+        "SelectedPer": 0.21,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      }
+    ],
+    "BATSMAN": [
+      {
+        "Id": 66812,
+        "ShortName": "Prithvi Shaw",
+        "Value": 7.5,
+        "SelectedPer": 3.5,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 66368,
+        "ShortName": "Pathum Nissanka",
+        "Value": 7.0,
+        "SelectedPer": 3.05,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 63649,
+        "ShortName": "Nitish Rana",
+        "Value": 8.5,
+        "SelectedPer": 2.74,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 74761,
+        "ShortName": "Tristan Stubbs",
+        "Value": 9.0,
+        "SelectedPer": 1.5,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 62297,
+        "ShortName": "Karun Nair",
+        "Value": 8.0,
+        "SelectedPer": 1.36,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 5313,
+        "ShortName": "David Miller",
+        "Value": 9.0,
+        "SelectedPer": 1.29,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 68176,
+        "ShortName": "Ashutosh Sharma",
+        "Value": 9.0,
+        "SelectedPer": 1.19,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 114374,
+        "ShortName": "Sahil Parakh",
+        "Value": 7.0,
+        "SelectedPer": 0.56,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 71376,
+        "ShortName": "Sameer Rizvi",
+        "Value": 8.5,
+        "SelectedPer": 0.41,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      }
+    ]
+  },
+  "CSK": {
+    "ALL ROUNDER": [
+      {
+        "Id": 84562,
+        "ShortName": "Dewald Brevis",
+        "Value": 9.0,
+        "SelectedPer": 5.09,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 66044,
+        "ShortName": "Shivam Dube",
+        "Value": 10.0,
+        "SelectedPer": 5.08,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 98636,
+        "ShortName": "Prashant Veer",
+        "Value": 8.0,
+        "SelectedPer": 2.07,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 58482,
+        "ShortName": "Jamie Overton",
+        "Value": 8.0,
+        "SelectedPer": 0.53,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 58155,
+        "ShortName": "Shreyas Gopal",
+        "Value": 7.5,
+        "SelectedPer": 0.46,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 63846,
+        "ShortName": "Matthew Short",
+        "Value": 7.5,
+        "SelectedPer": 0.39,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 69300,
+        "ShortName": "Aman Khan",
+        "Value": 7.5,
+        "SelectedPer": 0.23,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 90571,
+        "ShortName": "Zakary Foulkes",
+        "Value": 7.5,
+        "SelectedPer": 0.22,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      }
+    ],
+    "BOWLER": [
+      {
+        "Id": 71411,
+        "ShortName": "Noor Ahmad",
+        "Value": 9.0,
+        "SelectedPer": 7.5,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 66823,
+        "ShortName": "Rahul Chahar",
+        "Value": 7.0,
+        "SelectedPer": 4.56,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 60544,
+        "ShortName": "Matt Henry",
+        "Value": 7.5,
+        "SelectedPer": 3.81,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 65867,
+        "ShortName": "Khaleel Ahmed",
+        "Value": 9.5,
+        "SelectedPer": 2.03,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 71151,
+        "ShortName": "Anshul Kamboj",
+        "Value": 8.5,
+        "SelectedPer": 1.21,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 70324,
+        "ShortName": "Nathan Ellis",
+        "Value": 7.5,
+        "SelectedPer": 1.18,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 67887,
+        "ShortName": "Mukesh Choudhary",
+        "Value": 7.5,
+        "SelectedPer": 1.15,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 57239,
+        "ShortName": "Akeal Hosein",
+        "Value": 7.5,
+        "SelectedPer": 0.89,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": true
+      },
+      {
+        "Id": 86633,
+        "ShortName": "Gurjapneet Singh",
+        "Value": 7.0,
+        "SelectedPer": 0.55,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 98813,
+        "ShortName": "Ramakrishna Ghosh",
+        "Value": 7.0,
+        "SelectedPer": 0.28,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      }
+    ],
+    "WICKET KEEPER": [
+      {
+        "Id": 61837,
+        "ShortName": "Sanju Samson",
+        "Value": 9.5,
+        "SelectedPer": 22.22,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 3676,
+        "ShortName": "MS Dhoni",
+        "Value": 8.5,
+        "SelectedPer": 1.95,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 68150,
+        "ShortName": "Urvil Patel",
+        "Value": 8.0,
+        "SelectedPer": 0.86,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 129073,
+        "ShortName": "Kartik Sharma",
+        "Value": 7.5,
+        "SelectedPer": 0.74,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      }
+    ],
+    "BATSMAN": [
+      {
+        "Id": 66584,
+        "ShortName": "Ruturaj Gaikwad",
+        "Value": 9.0,
+        "SelectedPer": 11.76,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 63962,
+        "ShortName": "Sarfaraz Khan",
+        "Value": 7.0,
+        "SelectedPer": 5.34,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      },
+      {
+        "Id": 120157,
+        "ShortName": "Ayush Mhatre",
+        "Value": 9.0,
+        "SelectedPer": 5.24,
+        "isInjured": false,
+        "IsActive": true,
+        "isOverseasPlayer": false
+      }
+    ]
+  }
+}

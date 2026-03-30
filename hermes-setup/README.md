@@ -16,7 +16,7 @@ Flow:
 ## 2) Create `.env` (Gemini key + local proxy password)
 
 ```bash
-cd /home/ubuntu/misc/AgentXI/hermes-setup
+cd AgentXI/hermes-setup
 cp -n .env.example .env   # skip if .env already exists
 ```
 
@@ -34,7 +34,7 @@ After editing, ensure `litellm_config.yaml` exists (created automatically on fir
 Use the bundled installer so `litellm` is always available to `start_litellm.sh`:
 
 ```bash
-cd /home/ubuntu/misc/AgentXI/hermes-setup
+cd AgentXI/hermes-setup
 chmod +x install_litellm.sh start_litellm.sh
 ./install_litellm.sh
 ```
@@ -70,7 +70,7 @@ Notes:
 
 ```bash
 tmux new -s litellm
-cd /home/ubuntu/misc/AgentXI/hermes-setup
+cd AgentXI/hermes-setup
 ./start_litellm.sh
 ```
 
@@ -89,7 +89,7 @@ tmux attach -t litellm
 With `./start_litellm.sh` running in another terminal/tmux:
 
 ```bash
-cd /home/ubuntu/misc/AgentXI/hermes-setup
+cd AgentXI/hermes-setup
 chmod +x test_litellm.sh
 ./test_litellm.sh
 ```

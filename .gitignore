@@ -6,8 +6,10 @@ __pycache__/
 
 # Virtual environments
 .venv/
+agent_venv/
 venv/
 env/
+archive/
 
 # Environment files (keep only templates)
 .env
