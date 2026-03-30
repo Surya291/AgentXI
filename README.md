@@ -1,6 +1,6 @@
 # Agent XI
 
-<img src="assets/banner2.png" alt="AGENTXI cover" width="100%" />
+<img src="assets/banner.png" alt="AGENTXI cover" width="100%" />
 
 An autonomous agent that plays season-long fantasy IPL cricket contests [on the official site](https://fantasy.iplt20.com/).
 
