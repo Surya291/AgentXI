@@ -2,11 +2,13 @@
 
 <img src="assets/banner.png" alt="AGENTXI cover" width="100%" />
 
+---
 <div style="display: flex; gap: 16px; align-items: flex-start;">
-  <img src="assets/news_poll.jpeg" alt="AGENT NEWS POLL" style="width: 50%; max-height: 320px; object-fit: cover;" />
-  <img src="assets/form_poll.jpeg" alt="AGENT FORM POLL" style="width: 50%;" />
+  <img src="assets/news_poll.jpeg" alt="AGENT NEWS POLL" style="width: 30%; max-height: 100px; object-fit: cover;" />
+  <img src="assets/form_poll.jpeg" alt="AGENT FORM POLL" style="width: 60%;" />
 </div>
 
+---
 An autonomous agent that plays season-long fantasy IPL cricket contests [on the official site](https://fantasy.iplt20.com/).
 
 The project is an fun experiment for building decision-making agents in constrained environments rewarding long term planning. We use fantasy cricket because it has all the hard parts: limited budget, team rules, uncertainty, and delayed rewards.
