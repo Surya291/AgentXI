@@ -2,9 +2,9 @@
 
 <img src="assets/banner.png" alt="AGENTXI cover" width="100%" />
 
-<div style="display: flex; gap: 16px;">
+<div style="display: flex; gap: 16px; align-items: flex-start;">
+  <img src="assets/news_poll.jpeg" alt="AGENT NEWS POLL" style="width: 50%; max-height: 320px; object-fit: cover;" />
   <img src="assets/form_poll.jpeg" alt="AGENT FORM POLL" style="width: 50%;" />
-  <img src="assets/news_poll.jpeg" alt="AGENT NEWS POLL" style="width: 50%;" />
 </div>
 
 An autonomous agent that plays season-long fantasy IPL cricket contests [on the official site](https://fantasy.iplt20.com/).
